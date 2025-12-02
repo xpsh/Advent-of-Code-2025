@@ -1,3 +1,4 @@
+# Day 1
 
 with open("input.txt") as f:
     data = [x.strip() for x in f.readlines()]
